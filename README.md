@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @svivekkrishna
-- 👀 I’m interested in CI/CD, infrastructure as code, cloud architectures, developer experience etc.
+- 👀 I’m interested in AIML, Developer Platforms, CI/CD, Infrastructure as Code, Cloud Architectures, Developer Experience etc.
 - 📫 You can reach out on [LinkedIn](https://www.linkedin.com/in/svivekkrishna/)
 
 <!---
